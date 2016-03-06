@@ -207,9 +207,6 @@
     <Content Include="bomb.wav">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="cvextern.dll">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
     <Content Include="x64\cudart64_65.dll">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
