@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("Gesture Ball Smash")]
 [assembly: AssemblyDescription("Developed Using \n C#.NET \n EmguCV(C#.NET Wrapper For Opencv \n NAudio(NAudio is an open source .NET audio and MIDI library ) \n Game Sounds: \n Background Music: Anime and Techno By DJ Striden")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Developed By:Shiva Saxena")]
+[assembly: AssemblyCompany("Developed By: Shiva Saxena")]
 [assembly: AssemblyProduct("Gesture Ball Smash")]
-[assembly: AssemblyCopyright("Copyright:No Rights Reserved")]
+[assembly: AssemblyCopyright("Copyright 2013: No Rights Reserved")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -32,5 +32,5 @@ using System.Runtime.InteropServices;
 // You can specify all the values or you can default the Build and Revision Numbers 
 // by using the '*' as shown below:
 // [assembly: AssemblyVersion("1.0.*")]
-[assembly: AssemblyVersion("1.0.0.0")]
-[assembly: AssemblyFileVersion("1.0.0.0")]
+[assembly: AssemblyVersion("1.0.1")]
+[assembly: AssemblyFileVersion("1.0.1")]
